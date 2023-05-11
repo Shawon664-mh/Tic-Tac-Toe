@@ -1,0 +1,10 @@
+Concepts covered
+
+-MVC architectural pattern
+-What is "state"?
+-Event delegation
+-Mobile responsiveness
+-CSS animations
+-CSS grid
+-Much more!!
+
